@@ -1,4 +1,4 @@
-# Look at all this Cool stuff. "This is my change"
+# Look at all this Cool stuff. "This is my change" "This is my 2nd change"
 
 ## Cool header
 
